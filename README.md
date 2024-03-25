@@ -1,1 +1,5 @@
-# Prodigy_DS_03
+## Progidty InfoTech DS Internship Task 03
+
+Here is the task 03 of Data Science Internship at Prodigy Infotech.
+
+Build a decision tree classifier to predict whether a customer will purchase a product or service based on their demographic and behavioral data. Use a dataset such as the Bank Marketing dataset from the UCI Machine Learning Repository.
